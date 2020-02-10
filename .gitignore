@@ -1,0 +1,9 @@
+.floydexpt
+.floydignore
+floyd_requirements.txt
+.ipynb_checkpoints/
+checkpoint
+model.ckpt.data-00000-of-00001
+model.ckpt.index
+model.ckpt.meta
+*.kate-swp
